@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanionee" alt="dhanionee" /></a> </p>
 
-- 🔭 I’m currently working on [Solova Roleplay](https://solovaroleplay.id)
-
 - 💬 Ask me about **lua, html, js, typescript**
 
 - 📫 How to reach me **ardhanardiansyahardana@gmail.com**
